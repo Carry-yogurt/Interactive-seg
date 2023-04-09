@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="root@region-3.autodl.com:40710">
+    <serverData>
+      <paths name="root@region-3.autodl.com:35962">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/interactive-code" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-3.autodl.com:40710">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/interactive-code" local="$PROJECT_DIR$" web="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-41.autodl.com:17270">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
